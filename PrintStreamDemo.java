@@ -10,6 +10,5 @@ public class PrintStreamDemo {
       ps.println(c);
       ps.print("New Line");
       
-      ps.flush();
    }
 }
